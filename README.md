@@ -41,15 +41,15 @@ For test 1 and test 2: In instruction memory, right click it and select “load 
 For test 3: In instruction memory, right click and select load image, from there browse to test files and select “test3.txt”.
 When the tests are properly loaded, simply press CTRL+T (or CMD+T on mac) to cycle through the processor. 
 </p>
-<h2>Demo<span style='font-size:100px;'>&#128250;</span><h2/>
+<h2>Demo<span style='font-size:100px;'>&#128250;</span></h2>	
 	<p>
 	<img src="resources/images/cpu.PNG"></img>
 	</p>
-<h2>Contributing<span style='font-size:100px;'>&#127873;</span><h2/>
+<h2>Contributing<span style='font-size:100px;'>&#127873;</span></h2>
 	<p>
 	Pull requests are welcome. However I have discontinued work here. I will be focusing this time to work on the complete MIPS implemenation with pipelining implemented in VHDL or Verilog check my github for more.
 	</p>
-<h2>References<span style='font-size:100px;'>&#x1F4D3;</span><h2/>
+<h2>References<span style='font-size:100px;'>&#x1F4D3;</span></h2>
 	<p>
 	<ul>
 		<li> <a href="https://en.wikipedia.org/wiki/MIPS_architecture">About MIPS </a></li>
@@ -59,5 +59,5 @@ When the tests are properly loaded, simply press CTRL+T (or CMD+T on mac) to cyc
 			Sarah L. Harris </li>
 		<li> <a href="https://www.youtube.com/watch?v=CDO28Esqmcg&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu">Bilkent University Computer Organization Course By William Sawyer</a> 
 	</p>
-<h2>Licence<span style='font-size:100px;'>&#128272;</span><h2/>
+<h2>Licence<span style='font-size:100px;'>&#128272;</span></h2>
 	<p>MIT &copy; Kumbong Hermann</p>
