@@ -1,0 +1,15 @@
+\contentsline {table}{\numberline {1.3}{\ignorespaces Comparison of MIPS and CISC architectures\relax }}{8}
+\contentsline {table}{\numberline {1.4}{\ignorespaces Examples of R-Type Instructions\relax }}{10}
+\contentsline {table}{\numberline {1.5}{\ignorespaces Examples of I-Type Instructions\relax }}{11}
+\contentsline {table}{\numberline {1.6}{\ignorespaces Examples of I-type Conditional Branch Instructions\relax }}{11}
+\contentsline {table}{\numberline {1.7}{\ignorespaces Examples of J-Type Instructions\relax }}{12}
+\contentsline {table}{\numberline {1.8}{\ignorespaces Subset of Arithmetic and Logic Operations\relax }}{12}
+\contentsline {table}{\numberline {1.9}{\ignorespaces Subset of Comparison Instructions\relax }}{12}
+\contentsline {table}{\numberline {1.10}{\ignorespaces Subset of Branching Instructions\relax }}{13}
+\contentsline {table}{\numberline {1.11}{\ignorespaces Subset of Jump Instructions\relax }}{13}
+\contentsline {table}{\numberline {1.12}{\ignorespaces Subset of Load and Store Instructions\relax }}{13}
+\contentsline {table}{\numberline {1.13}{\ignorespaces Instruction Encodings\relax }}{13}
+\contentsline {table}{\numberline {1.14}{\ignorespaces Opcode Table\relax }}{13}
+\contentsline {table}{\numberline {5.15}{\ignorespaces Main Control Unit Truth Table\relax }}{33}
+\contentsline {table}{\numberline {5.16}{\ignorespaces ALUOpcode Truth Table\relax }}{34}
+\contentsline {table}{\numberline {5.17}{\ignorespaces \texttt {ALUCntrl} and \texttt {Sub} Outputs from Priority Encoder\relax }}{36}

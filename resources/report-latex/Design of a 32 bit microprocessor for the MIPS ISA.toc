@@ -1,0 +1,30 @@
+\contentsline {chapter}{The MIPS Instruction Set Architecture}{5}
+\contentsline {section}{\numberline {1}Introduction}{5}
+\contentsline {section}{\numberline {2}Classification of Instruction Set Architectures}{6}
+\contentsline {subsection}{\numberline {2.1}Based on operand storage in CPU}{6}
+\contentsline {subsection}{\numberline {2.2}Based on architectural complexity}{7}
+\contentsline {section}{\numberline {3}MIPS ISA}{9}
+\contentsline {section}{\numberline {4}MIPS Instruction formats}{9}
+\contentsline {section}{\numberline {5}MIPS subset for our design}{12}
+\contentsline {chapter}{Registers and The Register File}{15}
+\contentsline {section}{\numberline {1}Introduction}{15}
+\contentsline {section}{\numberline {2}The MIPS 32 $\times $ 32 Register File}{15}
+\contentsline {section}{\numberline {3}Register Design and Simulation in Logisim}{17}
+\contentsline {chapter}{ALU Design }{23}
+\contentsline {section}{\numberline {1}The 1 Bit ALU}{23}
+\contentsline {section}{\numberline {2}The 32 bit ALU}{23}
+\contentsline {chapter}{Datapath Design}{26}
+\contentsline {section}{\numberline {1}The Instruction Fetch Unit}{26}
+\contentsline {section}{\numberline {2}Datapath for R-type instructions}{27}
+\contentsline {section}{\numberline {3}Datapath for Immediate arithmetic and logical instructions}{28}
+\contentsline {section}{\numberline {4}Datapath for the Load instruction}{29}
+\contentsline {section}{\numberline {5}Datapath for the Store instruction}{30}
+\contentsline {section}{\numberline {6}Datapath for the Branch and jump instruction}{31}
+\contentsline {section}{\numberline {7}Final Datapath}{32}
+\contentsline {chapter}{Control Unit Design}{33}
+\contentsline {section}{\numberline {1}Main Control Unit}{33}
+\contentsline {section}{\numberline {2}ALU Control}{36}
+\contentsline {section}{\numberline {3}PC Control}{37}
+\contentsline {section}{\numberline {4}Final 32 bit CPU}{38}
+\contentsline {chapter}{Testing}{39}
+\contentsline {section}{\numberline {1}Test Program 1}{39}

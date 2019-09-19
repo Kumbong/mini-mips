@@ -1,0 +1,23 @@
+\contentsline {figure}{\numberline {2.1}{\ignorespaces 32 $\times $ 32 Register File Interface\relax }}{16}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 32 $\times $ 32 Register File Implementation with tri-state Buffers\relax }}{17}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Register zero (\$0) with both tri-state buffers in high impedance state \relax }}{18}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces 32 bit register whose data is available on Bus A\relax }}{19}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces A $3 \times 4$ to $4 \times 3$ zipper\relax }}{20}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces A $3 \times 16$ to $4 \times 12$ zipper\relax }}{20}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces A 4 $\times $ 8 register cell\relax }}{21}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces The 32 bit register file\relax }}{22}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces A 1 bit ALU perforrming XOR in Logisim\relax }}{24}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces The Final 32 Bit ALU in Logisim\relax }}{25}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Generic ALU Symbol\relax }}{25}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Instruction Fetch Unit\relax }}{26}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces R-Type Instruction Datapath\relax }}{27}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces I-Type Instruction Datapath\relax }}{28}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Load Instruction Datapath\relax }}{29}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Store Instruction Datapath\relax }}{30}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Branch and Jump Instruction Datapath\relax }}{31}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Complete Datapath with Required Control Logic \relax }}{32}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Sign Extension Unit Performing Sign Extension in the First Diagram and Zero Extension in the Second\relax }}{33}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Main Control Unit\relax }}{35}
+\contentsline {figure}{\numberline {5.21}{\ignorespaces ALU Control\relax }}{36}
+\contentsline {figure}{\numberline {5.22}{\ignorespaces PC Control\relax }}{37}
+\contentsline {figure}{\numberline {5.23}{\ignorespaces Final 32 bit CPU\relax }}{38}
