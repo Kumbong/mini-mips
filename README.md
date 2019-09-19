@@ -1,3 +1,5 @@
+
+![](resources/images/cpu.png)
 [CopyrightLicense]:./license.md
 <p align="center">
 	<a href="resources/images/cpu.PNG" ></a>
