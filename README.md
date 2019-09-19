@@ -31,7 +31,6 @@ This work was done and submitted as a course project for COE 381: Microprocessor
 	
 </li>
 </p>
-
 <h2>Usage<span style='font-size:100px;'>&#128187;</span></h2>
 <p>Once you have Logisim you are good to go!<span style='font-size:100px;'>&#128522;</span>. If you are unfamiliar with how to use logisim you can get started <a href="https://www.youtube.com/watch?v=RdnT_Ujq72E&list=PL9Tu_yD7oJURQqPEAQ78FggiDeiK7MqVb">here</a>. You can read the <a href="https://github.com/Kumbong/mips-32-logisim/blob/master/docs/report.pdf">report</a> or glance through the presentation <a href="https://github.com/Kumbong/mips-32-logisim/blob/master/docs/presentation.pptx">slides</a> to gain more insights on the design and the usage.Use the <a href="https://github.com/Kumbong/mips-32-logisim/tree/master/test%20files">test files</a> to run the simulation. <br><br>
 The instruction memory and data memory are ram modules. Before starting the simulation, be sure to restart the simulation.
