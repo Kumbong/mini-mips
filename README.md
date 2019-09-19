@@ -43,7 +43,6 @@ When the tests are properly loaded, simply press CTRL+T (or CMD+T on mac) to cyc
 </p>
 <h2>Demo<span style='font-size:100px;'>&#128250;</span><h2/>
 	<p>
-	Snapshot of Complete Processor is shown below
 	<img src="resources/images/cpu.PNG"></img>
 	</p>
 <h2>Contributing<span style='font-size:100px;'>&#127873;</span><h2/>
