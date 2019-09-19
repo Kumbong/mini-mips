@@ -58,6 +58,5 @@ When the tests are properly loaded, simply press CTRL+T (or CMD+T on mac) to cyc
 			Sarah L. Harris </li>
 		<li> <a href="https://www.youtube.com/watch?v=CDO28Esqmcg&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu">Bilkent University Computer Organization Course By William Sawyer</a> 
 	</p>
-	<br>
 <h2>Licence<span style='font-size:100px;'>&#128272;</span></h2>
 	<p>MIT &copy; Kumbong Hermann</p>
