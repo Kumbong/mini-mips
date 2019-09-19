@@ -9,8 +9,8 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/last-commit/kumbong/mips-32-logisim">
-	<img src="https://img.shields.io/github/license/kumbong/mips-32-logisim">
-	<img src="https://img.shields.io/github/issues-raw/kumbong/mips-32-logisim">
+	<img src="https://img.shields.io/github/license/kumbong/mini-mips">
+	<img src="https://img.shields.io/github/issues-raw/kumbong/mini-mips">
 </p>
 <hr>
 <h2> Motivation<span style='font-size:100px;'>&#127775;</span></h2>	
