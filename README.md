@@ -1,8 +1,5 @@
-
-![](resources/images/cpu.png)
-[CopyrightLicense]:./license.md
 <p align="center">
-	<a href="resources/images/cpu.PNG" ></a>
+	<a href="https://raw.githubusercontent.com/Kumbong/mips-32-logisim/master/resources/images/cpu.PNG" ></a>
 </p>
 <p align="center">
     Solutions to problems on HackerRank.
