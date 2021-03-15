@@ -21,9 +21,9 @@ This work was done and submitted as a course project for COE 381: Microprocessor
 <p>
 <ol>
 	<li>Clone this repo</br>
-	<pre>git clone https://github.com/Kumbong/quine_mccluskey.git<br>
+	<pre>git clone https://github.com/Kumbong/mini-mips.git<br>
    
-   cd quine_mccluskey
+   cd mini-mips
 	</pre>
 	</li>
 	<li>Install Logisim<br>
